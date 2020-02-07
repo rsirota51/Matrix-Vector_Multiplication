@@ -2,9 +2,6 @@ package ub.cse.algo;
 
 import java.util.ArrayList;
 
-/**
- * The driver for homework three. CSE 331
- */
 public class Driver {
     
     private static String inputFilename;
